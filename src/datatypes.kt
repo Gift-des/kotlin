@@ -14,4 +14,14 @@ fun main() {
     println(greeting)
     println(iskotlininteresting)
 
+  //Typecasting
+    var result1 = number.toDouble()
+    println(result1)
+    var output = mydecimal.toInt()
+    println(output)
+
+
+
+
+
 }
